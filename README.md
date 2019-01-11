@@ -1,4 +1,2 @@
 "# Projet_AgenceImmo" 
-Premiere version de mes classes de l'agence, debut de l'application pour tester si les classes sont bien 
-implém�enté.
-
+Implementation d'une application en ligne de cmd avec la version 1 du code des classes sur master.
